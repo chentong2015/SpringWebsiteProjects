@@ -10,7 +10,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
 
-    <artifactId>my-blog</artifactId>
+    <artifactId>blog-website</artifactId>
     <groupId>org.example</groupId>
     <version>1.0-SNAPSHOT</version>
     <packaging>jar</packaging>
