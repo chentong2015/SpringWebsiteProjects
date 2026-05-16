@@ -1,9 +1,0 @@
-Spring Batch & Data Processing 实战项目
-- Spring boot uploader + downloader 项目
-- Spring Batch 批处理
-- Java Library 第三方类库
-
-- 绘制项目的架构图
-- 前端web页面上传文件
-- 后端使用Spring Batch批处理
-- 前面web页面下载报告
