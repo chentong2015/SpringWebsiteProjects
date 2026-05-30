@@ -1,0 +1,3 @@
+Data Processing 企业级应用场景: 大数据，数据Pipeline流，Spark Hadoop
+https://www.youtube.com/watch?v=gS6zOfqUHVs&list=PLjkHSzY9VuL96myavOIICS-x6yVyAMPjg&t=38s
+https://www.linkedin.com/events/7204244184684244993/
