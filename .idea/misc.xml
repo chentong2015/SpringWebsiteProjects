@@ -8,6 +8,7 @@
         <option value="$PROJECT_DIR$/blog-website/pom.xml" />
         <option value="$PROJECT_DIR$/ecommerce-website/pom.xml" />
         <option value="$PROJECT_DIR$/my-blog/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-openai-chatbot/pom.xml" />
       </list>
     </option>
   </component>

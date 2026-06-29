@@ -1,0 +1,10 @@
+<dictionary>
+    <terme>
+        <label>WEB</label>
+        <definition>Provides the user interface for soc</definition>
+    </terme>
+    <terme>
+        <label>API</label>
+        <definition>Responsible for storing all containers </definition>
+    </terme>
+</dictionary>
